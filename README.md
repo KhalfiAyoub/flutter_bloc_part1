@@ -1,4 +1,4 @@
-# Counter-BLOC
+# Counter_Bloc
 
 Application de compteur fluide développée avec le pattern BLOC.
 
